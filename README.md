@@ -10,4 +10,23 @@ In-depth study of the different modelling techniques on the imbalanced/balanced 
 
 <img width="478" alt="image" src="https://github.com/user-attachments/assets/42f97c03-116b-45ae-bb1e-ca57c0797c06" />
 
+After performing undersampling,
+
+<img width="458" alt="image" src="https://github.com/user-attachments/assets/6ee6066a-1126-4bd6-bf9e-bff57e2cdb36" />
+
+Oversampling with a random forest classifier has been done,
+
+<img width="529" alt="image" src="https://github.com/user-attachments/assets/afb008b0-7e56-49fb-bf76-d2ac5513a4fb" />
+
+Finally testing has been done by selecting neural network (ReLU) model,
+
+<img width="499" alt="image" src="https://github.com/user-attachments/assets/40fc4b56-cc9a-41de-a77c-5caa080f769c" />
+
+Mainly precision, recall and f1-score has been used to evaluate the performance of a model as in this particular dataset, confusion matrix accuracy is going to be high due the large imbalance(Far greater number of genuine data points).
+
+Feel free to contribute to this project.
+
+
+
+
 
