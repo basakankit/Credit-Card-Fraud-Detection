@@ -22,7 +22,7 @@ Finally testing has been done by selecting sequential neural network model,
 
 <img width="499" alt="image" src="https://github.com/user-attachments/assets/40fc4b56-cc9a-41de-a77c-5caa080f769c" />
 
-Mainly precision has been used to evaluate the performance of a model as in this particular dataset, confusion matrix accuracy is going to be high due the large imbalance(Far greater number of genuine data points).
+Mainly precision, recall and f1-score has been used to evaluate the performance of a model as in this particular dataset, confusion matrix accuracy is going to be high due the large imbalance(Far greater number of genuine data points).
 
 Feel free to contribute to this project.
 
