@@ -18,7 +18,7 @@ Oversampling with a random forest classifier has been done,
 
 <img width="529" alt="image" src="https://github.com/user-attachments/assets/afb008b0-7e56-49fb-bf76-d2ac5513a4fb" />
 
-Finally testing has been done by selecting neural network (ReLU) model,
+Finally testing has been done by selecting sequential neural network model,
 
 <img width="499" alt="image" src="https://github.com/user-attachments/assets/40fc4b56-cc9a-41de-a77c-5caa080f769c" />
 
